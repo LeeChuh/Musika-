@@ -1,1 +1,1 @@
-# CS523
+Team repo for final project
